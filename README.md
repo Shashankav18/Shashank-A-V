@@ -1,7 +1,7 @@
 # Shashank-A-V
 
 # Coding language Used: Java
-**Program-1.py**: 
+- **Program-1.py**: 
   Implements a simple calculator using a class that performs Addition, Subtraction, Multiplication, and Division. Takes inputs `a`, `b` as doubles, and an operation type as a string.
 
 - **Program-2.py**: 
